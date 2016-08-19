@@ -1,0 +1,4 @@
+include ':jokes'
+include ':backend'
+include ':jokesdislaylibrary'
+include ':app'
